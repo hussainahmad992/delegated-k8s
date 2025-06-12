@@ -27,7 +27,7 @@ metadata:
   namespace: harness-delegate-ng
 type: Opaque
 data:
-  DELEGATE_TOKEN: "YWY3ZjQzZWFmNDg4NWVhZmU5ZWUzODE0ZDhlNTFmODA="
+  DELEGATE_TOKEN: "NTRmMDljMzMwNjY0MjNkY2E2NTI2ZjE2MzFkMzNlMmM="
 
 ---
 
@@ -202,7 +202,7 @@ metadata:
   namespace: harness-delegate-ng
 type: Opaque
 data:
-  UPGRADER_TOKEN: "YWY3ZjQzZWFmNDg4NWVhZmU5ZWUzODE0ZDhlNTFmODA="
+  UPGRADER_TOKEN: "NTRmMDljMzMwNjY0MjNkY2E2NTI2ZjE2MzFkMzNlMmM="
 
 ---
 
